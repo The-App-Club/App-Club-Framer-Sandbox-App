@@ -1,0 +1,4 @@
+- Reference
+  - [framer-motion-animate-in-view](https://codesandbox.io/s/framer-motion-animate-in-view-gqcc8)
+  - [framer motion view in port](https://stackoverflow.com/questions/58958972/framer-motion-animate-when-element-is-in-view-when-you-scroll-to-element)
+  - [spring](https://www.framer.com/docs/transition/#spring)

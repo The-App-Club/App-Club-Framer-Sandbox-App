@@ -1,0 +1,1 @@
+- [star-rating](https://framermotionplayground.com/tutorial/star-rating)
